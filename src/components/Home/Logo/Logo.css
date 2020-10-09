@@ -1,0 +1,12 @@
+.Tilt {
+    background: linear-gradient(89deg, rgb(76, 223, 142) 0%, #39a1e6 100%); 
+}
+
+.logo {
+    position: relative; 
+    top: 0px; 
+  }
+
+  .Tilt {
+      border-radius: 100%; 
+  }
